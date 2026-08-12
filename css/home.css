@@ -1,10 +1,13 @@
 body {
-    background: linear-gradient(180.61deg,
-    #464646 1%,
-    #242424 5%,
-    #071a2e 20%,
-    #0d3a63 60%,
-    #409ecd 100%);
+    background: linear-gradient(
+  180deg,
+  #202734 0%,
+  #1A2431 12%,
+  #16212F 25%,
+  #0F172A 45%,
+  #16486F 75%,
+  #00A6EB 100%
+);
     background-repeat: no-repeat;
     background-size: cover;
 
